@@ -1,8 +1,10 @@
 name: wue
+channels:
+    - conda-forge
 dependencies:
-- python>=3.7
-- pip
-- numpy=1.22.3 
-- pandas=1.4.3
-- matplotlib=3.5.1 
-- seaborn=0.11.2
+    - python>=3.7
+    - pip
+    - numpy
+    - pandas
+    - matplotlib
+    - seaborn
