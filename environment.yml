@@ -9,5 +9,6 @@ dependencies:
     - matplotlib
     - seaborn
     - xarray
+    - rioxarray
     - geopandas
     - tqdm
