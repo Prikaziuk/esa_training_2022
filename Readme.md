@@ -4,6 +4,8 @@ also known as Crop Water Productivity (CWP)
 
 Exercises for the European Space Agency (ESA) Advanced Training Course on Land Remote Sensing with the focus on Agriculture and Water Data https://landtraining2022.esa.int/
 
+My Binder (interactive Jupyter Notebook) https://mybinder.org/v2/gh/Prikaziuk/esa_training_2022.git/HEAD
+
 Data for the exercises are from:
 1. Google Earth Engine: 
 	- Landsat
